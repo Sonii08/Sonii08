@@ -51,5 +51,5 @@ I also like working on little projects such as my personnal portfolio or little 
 I have plenty ideas of project, but currently I would like to work on my own portfolio to show off my capacities
 
 # 📈My stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=Soniii79&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Soni%27s%20Github%20Stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Sonii08&count_private=true&theme=onedark&show_icons=true&hide=issues,contribs&custom_title=Soni%27s%20Github%20Stats)
 
